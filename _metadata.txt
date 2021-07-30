@@ -1,0 +1,20 @@
+title: John Conway' s Game of Life
+logo-image: GameOfLife/GameOfLifeLogo.png
+author: Francisco Esquembre; Wolfgang Christian
+copyright: 
+author-image: images/PacoEsquembre2011.png;./images/WC_logo.png
+main-script: GameOfLife_Simulation.js
+main-simulation: GameOfLife_Simulation.xhtml
+html-description: GameOfLife_Intro_1.html
+html-contents: GameOfLife_Contents.xhtml
+html-main: GameOfLife.xhtml
+page-title: Introduction
+page-index: GameOfLife_Intro_1.html
+page-title: John Conway' s Game of Life
+page-index: GameOfLife_Simulation.xhtml
+resource: GameOfLife/GameOfLifeLogo.png
+resource: GameOfLife/Game_of_life_diehard.png
+resource: GameOfLife/Game_of_life_glider.png
+resource: GameOfLife/Game_of_life_methuselah.png
+resource: images/WC_logo.png
+resource: images/PacoEsquembre2011.png
